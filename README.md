@@ -25,7 +25,7 @@ Coding Club Project on App Development
 			1. upvote perc
 			2. upvotes
 			3. time
-			4. tags	
+			4. tags
 	4. Every post summary consists:
 		1. Title
 		2. Photo
@@ -54,10 +54,10 @@ Coding Club Project on App Development
 	1. Follow Users
 	2. Stats:
 		1. Upvote-downvote count
-		2. No. of 
+		2. No. of
 		3. No. of followers
 		4. Joining Date
 	3. All posts by this User
 	4. All comments by this user
 	5. Upvoted and downvoted posts/comments //Available to only the user
-	
+
