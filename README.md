@@ -2,7 +2,6 @@
 
 Coding Club Project on App Development
 
-
 # Workplan
 
 ### Implement text in MARKDOWN
