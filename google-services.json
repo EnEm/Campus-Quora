@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "60967470327",
+    "firebase_url": "https://campus-quora.firebaseio.com",
+    "project_id": "campus-quora",
+    "storage_bucket": "campus-quora.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60967470327:android:69329fbcdad8c6b3e43ff2",
+        "android_client_info": {
+          "package_name": "com.android.campusquora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60967470327-m0j7einlpgmnq3rebjm5494vkma4bl5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.campusquora",
+            "certificate_hash": "ef8830836cd041dd104e5118fc438575e36d7565"
+          }
+        },
+        {
+          "client_id": "60967470327-lnt5u8jktagu1daf7vj0h68ht8ocqbv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.campusquora",
+            "certificate_hash": "b5e76368af25700ec1d2ad4642b4cf5a32579d98"
+          }
+        },
+        {
+          "client_id": "60967470327-n2jh981ck97b752d3lgks0b3sjbb0a4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.campusquora",
+            "certificate_hash": "38c5ec5ceae7b878b6122c0b14bb2983b5a809b9"
+          }
+        },
+        {
+          "client_id": "60967470327-fp60jvs6ktvs4o6o2brork5s5fa7kf1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.campusquora",
+            "certificate_hash": "7a43a5a9417752820779f1ae0f8d6d33f8061ca5"
+          }
+        },
+        {
+          "client_id": "60967470327-6826penr1thdkm4sif4rnj5l5edhpumt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.campusquora",
+            "certificate_hash": "b00edd24dc319ccefbf2cb0c5a6cfa868276baa4"
+          }
+        },
+        {
+          "client_id": "60967470327-23rurmu5lld1nd9950tfmna2ft7b6596.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.campusquora",
+            "certificate_hash": "ff523de7e09c998187ec3e85cf54ecb555203533"
+          }
+        },
+        {
+          "client_id": "60967470327-745nigdhj26nh09nl3pu1g20l2m4l4ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.campusquora",
+            "certificate_hash": "78e402478f2c9671f18c4a3462e00e1d7acd3b04"
+          }
+        },
+        {
+          "client_id": "60967470327-5cpesatje4d22idbmhd9d5p851hk5ne2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.campusquora",
+            "certificate_hash": "5cc704e30f49f27c39cf3a2eb30eda0744cd6ee4"
+          }
+        },
+        {
+          "client_id": "60967470327-6frdf7q0ne0j5fadmrkshuq8u02sgluh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSvcwdfMHF0vs0Ffnqxr5NAcXR5E_s-Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60967470327-6frdf7q0ne0j5fadmrkshuq8u02sgluh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
